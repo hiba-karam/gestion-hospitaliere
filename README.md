@@ -26,4 +26,4 @@ Le projet comprend une modélisation UML détaillée (fichier .mdj) incluant :
 * **Diagrammes de Séquence et d'Activité :** Modélisation des flux de connexion et de gestion des dossiers.
 
 ## Auteurs
-Projet réalisé Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
+Projet réalisé par Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
