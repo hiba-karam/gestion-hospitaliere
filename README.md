@@ -15,5 +15,5 @@ Application console développée en langage C pour optimiser la gestion des flux
 * **Structures de Données :** File de Priorité : Utilisée pour la liste principale des patients, ordonnée selon l'urgence. Listes Chaînées : Gestion dynamique de la mémoire. Piles (LIFO) : Gestion de l'historique des consultations.
 * **Conception (UML) :** Le projet comprend une modélisation UML détaillée incluant : Diagramme de Cas d'Utilisation : Identification des acteurs (Patient, Médecin, Secrétaire, Administrateur). Diagramme de Classes : Structure des entités (Patient, DossierMédical, Médecin, Utilisateur). Diagrammes de Séquence et d'Activité : Modélisation des flux de connexion et de gestion des dossiers.
 
-## Auteur(s)
+## Auteurs
 Projet réalisé par Hiba Karam en collaboration avec Tarek Souibri - Élèves Ingénieurs @ EMSI.
